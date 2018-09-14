@@ -1,5 +1,5 @@
 using System;
 
 static void main(){
-    Console.WriteLine("Fast Blazing Performnce");
+    Console.WriteLine("Fast Zero Kilo");
 }
